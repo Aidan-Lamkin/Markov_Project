@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/aidan/Documents/CSCI 262/markov/map_model.cpp
+map_model.h
+/Users/aidan/Documents/CSCI 262/markov/map_model.h
+map
+-
+vector
+-
+string
+-
+iostream
+-
+random
+-
+algorithm
+-
+
+/Users/aidan/Documents/CSCI 262/markov/map_model.h
+string
+-
+map
+-
+vector
+-
+model.h
+/Users/aidan/Documents/CSCI 262/markov/model.h
+
+/Users/aidan/Documents/CSCI 262/markov/model.h
+string
+-
+
